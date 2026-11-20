@@ -10,7 +10,7 @@
 |**Problema, em uma frase**|Pessoas com deficiência ou mobilidade reduzida não têm informação confiável, filtrável e transparente sobre a acessibilidade real das calçadas e dos estabelecimentos da Paulista antes de se deslocarem.|
 |**Como funciona**|Plataforma colaborativa que une rotas acessíveis pelas calçadas a um portal de reputação (relatos, filtros, rankings e selos), no estilo Reclame Aqui da acessibilidade.|
 |**O que cada parte faz**|Tabela de disciplinas na documentação do projeto; em `dynamic-programming/`, o motor de rotas e o ranking por perfil de mobilidade.|
-|**Link do repositório**|https://github.com/JustGuslav0/Amigo\_das\_Ruas-2ESPS\_GS-2026.git|
+|**Link do repositório**|https://github.com/camilevs/Amigo_Das_Ruas.git|
 |**Indicador de impacto**|Trechos e estabelecimentos avaliados, taxa de relatos respondidos/resolvidos e reputação média de acessibilidade da região.|
 |**ODS conectados**|ODS 10 (Redução das desigualdades) e ODS 11 (Cidades e comunidades sustentáveis)|
 
